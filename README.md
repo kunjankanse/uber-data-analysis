@@ -9,7 +9,7 @@ The analysis includes **data cleaning, transformation, exploratory data analysis
 ---
 
 ## 🛠️ Technologies & Libraries Used
-- **Python 3.x**
+- **Python**
 - **Pandas** – Data cleaning & manipulation
 - **NumPy** – Numerical operations
 - **Matplotlib / Pyplot** – Data visualization
